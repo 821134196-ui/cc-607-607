@@ -13,3 +13,9 @@ build/
 轨迹/
 录屏/
 视频/
+
+# PHP / Laravel
+vendor/
+backend/database/database.sqlite
+backend/database/seeded.flag
+backend/storage/app/private/subtitles/
